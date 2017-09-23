@@ -1,5 +1,11 @@
 *.css
 *.js
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+*.otf
 
 # Logs
 logs
