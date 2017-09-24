@@ -1,5 +1,8 @@
 *.css
 *.js
+
+!gulpfile.js
+
 *.eot
 *.svg
 *.ttf
